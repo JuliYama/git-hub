@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>
+    Incluyendo Multimedia y CSS
+</title>
+<link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+    <header>
+        <h1>Contenido multimedia y CSS</h1>
+    </header>
+    <nav>
+        <main>
+            <!--Contenido principal-->
+            <h2>imagen</h2>
+            <h3>Local</h3>
+            <img src="https://placedog.net/400/200" class="bordesredondeados"/>
+            <img src="https://www.fotoempresas.es/wp-content/uploads/2013/12/webp_vs_jpeg_ejemplo_pantalon.jpg" alt="foto jpg">
+            <img src="imagendiseno.jpeg" alt="imagen y diseño" />
+            <h4>Video</h4>
+            <video src="mivideo.mp4" autoplay controls loop></video>
+            <h5>Audio</h5>
+            <audio src="perfect (1).mp3" preload="auto" controls></audio>
+            <h6>Iframe</h6>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/ztqrCXeItkc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <section id="productos">
+                <article>
+                    <h7>Estilos CSS</h7>
+                    <p>jfkdasfjsdfasgasggregeargagasfgagsfg
+                        gfsfdagfgasgaga
+                    </p>
+                </article>
+            </section>
+            <div>
+                sjdhakjfhajknfkaj
+            </div>
+        </main>
+    </nav>
+</body>
+</html>
